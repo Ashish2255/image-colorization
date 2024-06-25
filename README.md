@@ -1,4 +1,4 @@
-# image-colorization
+# image-colorization using GAN
 code for the project: image-colorization.ipynb file
 ### link of paper followed :
 https://arxiv.org/abs/1611.07004
